@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/tuling-single-mall/tuling-admin/tuling-admin.iml" filepath="$PROJECT_DIR$/tuling-single-mall/tuling-admin/tuling-admin.iml" />
+      <module fileurl="file://$PROJECT_DIR$/tuling-single-mall/tuling-common/tuling-common.iml" filepath="$PROJECT_DIR$/tuling-single-mall/tuling-common/tuling-common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/tuling-mall.iml" filepath="$PROJECT_DIR$/.idea/tuling-mall.iml" />
+      <module fileurl="file://$PROJECT_DIR$/tuling-single-mall/tuling-mpbg/tuling-mpbg.iml" filepath="$PROJECT_DIR$/tuling-single-mall/tuling-mpbg/tuling-mpbg.iml" />
+      <module fileurl="file://$PROJECT_DIR$/tuling-single-mall/tuling-single-mall.iml" filepath="$PROJECT_DIR$/tuling-single-mall/tuling-single-mall.iml" />
+    </modules>
+  </component>
+</project>
