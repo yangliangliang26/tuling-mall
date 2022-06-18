@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE mapper PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN" "http://mybatis.org/dtd/mybatis-3-mapper.dtd">
+<mapper namespace="com.tulingxueyuan.mall.modules.pms.mapper.PmsProductCategoryMapper">
+
+    <!-- 通用查询映射结果 -->
+    <resultMap id="BaseResultMap" type="com.tulingxueyuan.mall.modules.pms.model.PmsProductCategory">
+        <id column="id" property="id" />
+        <result column="parent_id" property="parentId" />
+        <result column="name" property="name" />
+        <result column="level" property="level" />
+        <result column="product_count" property="productCount" />
+        <result column="product_unit" property="productUnit" />
+        <result column="nav_status" property="navStatus" />
+        <result column="show_status" property="showStatus" />
+        <result column="sort" property="sort" />
+        <result column="icon" property="icon" />
+        <result column="keywords" property="keywords" />
+        <result column="description" property="description" />
+    </resultMap>
+    <resultMap id="getwithChildren" type="com.tulingxueyuan.mall.modules.pms.model.dto.productCategoryDto">
+
+        <result column="id" property="id"/>
+        <result column="name" property="name"/>
+        <collection property="children" ofType="com.tulingxueyuan.mall.modules.pms.model.PmsProductCategory">
+            <result column="id2" property="id"></result>
+            <result column="name2" property="name"/>
+        </collection>
+    </resultMap>
+    <select id="getwithChildren" resultType="com.tulingxueyuan.mall.modules.pms.model.dto.productCategoryDto"
+            resultMap="getwithChildren">
+        SELECT
+        pc.id,
+        pc.`name`,
+        ppc.id id2,
+        ppc.`name` name2
+        FROM pms_product_category pc
+        LEFT JOIN pms_product_category ppc ON pc.id=ppc.parent_id AND ppc.parent_id <![CDATA[ <> ]]> 0
+        where pc.parent_id=0
+
+
+    </select>
+
+</mapper>

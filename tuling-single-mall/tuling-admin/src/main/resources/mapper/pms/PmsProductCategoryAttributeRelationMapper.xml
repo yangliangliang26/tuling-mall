@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE mapper PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN" "http://mybatis.org/dtd/mybatis-3-mapper.dtd">
+<mapper namespace="com.tulingxueyuan.mall.modules.pms.mapper.PmsProductCategoryAttributeRelationMapper">
+
+    <!-- 通用查询映射结果 -->
+    <resultMap id="BaseResultMap" type="com.tulingxueyuan.mall.modules.pms.model.PmsProductCategoryAttributeRelation">
+        <id column="id" property="id" />
+        <result column="product_category_id" property="productCategoryId" />
+        <result column="product_attribute_id" property="productAttributeId" />
+    </resultMap>
+    <resultMap id="getProductAttrInfo" type="com.tulingxueyuan.mall.modules.pms.model.dto.ProductAttrInfoDTO">
+      <result column="id" property="attributeId"/>
+        <result column="product_attribute_category_id" property="attributeCategoryId"/>
+    </resultMap>
+    <select id="getProductAttrInfo"
+            resultType="com.tulingxueyuan.mall.modules.pms.model.dto.ProductAttrInfoDTO" resultMap="getProductAttrInfo">
+        SELECT
+            pa.id,
+            pa.product_attribute_category_id
+
+        FROM pms_product_category_attribute_relation pcar
+                 LEFT JOIN pms_product_attribute pa ON pa.id=pcar.product_attribute_id
+        WHERE pcar.product_category_id=#{cid}
+    </select>
+
+</mapper>

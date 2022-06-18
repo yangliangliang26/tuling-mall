@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile default="true" name="Default" enabled="true" />
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="tuling-common" />
+        <module name="tuling-admin" />
+        <module name="tuling-protal" />
+        <module name="tuling-test" />
+        <module name="tuling-portal" />
+        <module name="tuling-mpbg" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="tuling-admin" target="1.8" />
+      <module name="tuling-common" target="1.8" />
+      <module name="tuling-mpbg" target="1.8" />
+      <module name="tuling-portal" target="1.8" />
+      <module name="tuling-protal" target="1.8" />
+      <module name="tuling-single-mall" target="1.8" />
+      <module name="tuling-test" target="1.8" />
+      <module name="tuling_test" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="tuling-admin" options="-parameters" />
+      <module name="tuling-common" options="-parameters" />
+      <module name="tuling-mpbg" options="-parameters" />
+      <module name="tuling-portal" options="-parameters" />
+      <module name="tuling-protal" options="-parameters" />
+      <module name="tuling-test" options="-parameters" />
+      <module name="tuling_test" options="-parameters" />
+    </option>
+  </component>
+</project>

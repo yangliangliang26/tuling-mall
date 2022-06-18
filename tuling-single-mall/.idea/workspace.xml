@@ -1,0 +1,1050 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AnalysisUIOptions">
+    <option name="GROUP_BY_SEVERITY" value="true" />
+  </component>
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="ALL" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="0855a341-0206-48ba-b1d0-dbea93b94cba" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CompilerWorkspaceConfiguration">
+    <option name="MAKE_PROJECT_ON_SAVE" value="true" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="DefaultGradleProjectSettings">
+    <option name="isMigrated" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>LambdaQueryWrapper</find>
+      <find>velocity.version</find>
+      <find>velocity</find>
+      <find>generator</find>
+      <find>mysql</find>
+      <find>com.tuli</find>
+      <find>mapper.xml.vm</find>
+      <find>initInjectionConfig</find>
+      <find>policy</find>
+      <find>OssController</find>
+      <find>pms</find>
+      <find>upload.product.images</find>
+      <find>collection</find>
+      <find>AutoConfigurationGroup</find>
+      <find>publishStatus</find>
+      <find>verifyStatus</find>
+      <find>productSn</find>
+      <find>productCategoryId</find>
+      <find>member_le</find>
+      <find>UmsMemberLevelSer</find>
+      <find>updateNewStatus</find>
+      <find>memberLevel</find>
+      <find>member_</find>
+      <find>sp_data</find>
+      <find>validation</find>
+      <find>moduleName</find>
+      <find>tuling-mall-tiny</find>
+      <find>spring-boot-configuration-processor</find>
+      <find>tuling-single-mall</find>
+      <find>收</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>com.tulingxueyuan.mall</replace>
+      <replace />
+    </replaceStrings>
+  </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/tuling-admin/src/main/java/com/tulingxueyuan/mall/modules/pms/controller/PmsProductCategoryController.java" />
+        <option value="$PROJECT_DIR$/tuling-admin/src/main/java/com/tulingxueyuan/mall/modules/pms/service/PmsBrandService.java" />
+        <option value="$PROJECT_DIR$/tuling-admin/src/main/java/com/tulingxueyuan/mall/modules/pms/controller/PmsBrandController.java" />
+        <option value="$PROJECT_DIR$/tuling-admin/src/main/java/com/tulingxueyuan/mall/modules/pms/service/impl/PmsBrandServiceImpl.java" />
+        <option value="$PROJECT_DIR$/tuling-admin/src/main/java/com/tulingxueyuan/mall/modules/pms/model/dto/ProductConditionDTO.java" />
+        <option value="$PROJECT_DIR$/tuling-admin/src/main/java/com/tulingxueyuan/mall/modules/ums/mapper/UmsMemberLevelMapper.java" />
+        <option value="$PROJECT_DIR$/tuling-admin/src/main/java/com/tulingxueyuan/mall/modules/ums/model/UmsMemberLevel.java" />
+        <option value="$PROJECT_DIR$/tuling-admin/src/main/java/com/tulingxueyuan/mall/modules/ums/service/RedisService.java" />
+        <option value="$PROJECT_DIR$/tuling-admin/src/main/java/com/tulingxueyuan/mall/modules/ums/service/impl/RedisServiceImpl.java" />
+        <option value="$PROJECT_DIR$/tuling-admin/src/main/java/com/tulingxueyuan/mall/modules/ums/UmsMemberLevelMapper.java" />
+        <option value="$PROJECT_DIR$/tuling-admin/src/main/java/com/tulingxueyuan/mall/modules/ums/service/UmsMemberLevelService.java" />
+        <option value="$PROJECT_DIR$/tuling-admin/src/main/java/com/tulingxueyuan/mall/modules/ums/service/impl/UmsMemberLevelServiceImpl.java" />
+        <option value="$PROJECT_DIR$/tuling-admin/src/main/java/com/tulingxueyuan/mall/modules/pms/model/PmsMemberPrice.java" />
+        <option value="$PROJECT_DIR$/tuling-mpbg/src/main/resources/generator.properties" />
+        <option value="$PROJECT_DIR$/tuling-admin/src/main/java/com/tulingxueyuan/mall/modules/pms/service/impl/PmsProductCategoryServiceImpl.java" />
+        <option value="$PROJECT_DIR$/tuling-admin/src/main/java/com/tulingxueyuan/mall/modules/pms/service/impl/PmsProductAttributeCategoryServiceImpl.java" />
+        <option value="$PROJECT_DIR$/tuling-admin/src/main/java/com/tulingxueyuan/mall/modules/pms/service/impl/PmsProductAttributeServiceImpl.java" />
+        <option value="$PROJECT_DIR$/tuling-admin/src/main/java/com/tulingxueyuan/mall/modules/pms/model/dto/ProductEditInfoDTO.java" />
+        <option value="$PROJECT_DIR$/tuling-admin/src/main/java/com/tulingxueyuan/mall/modules/pms/model/dto/ProductUpdateInitDTO.java" />
+        <option value="$PROJECT_DIR$/tuling-admin/src/main/java/com/tulingxueyuan/mall/modules/pms/mapper/PmsProductMapper.java" />
+        <option value="$PROJECT_DIR$/tuling-admin/src/main/resources/mapper/pms/PmsProductMapper.xml" />
+        <option value="$PROJECT_DIR$/tuling-admin/src/main/java/com/tulingxueyuan/mall/modules/pms/service/PmsProductService.java" />
+        <option value="$PROJECT_DIR$/tuling-admin/src/main/java/com/tulingxueyuan/mall/modules/pms/service/impl/PmsProductServiceImpl.java" />
+        <option value="$PROJECT_DIR$/tuling-admin/src/main/java/com/tulingxueyuan/mall/modules/pms/controller/PmsProductController.java" />
+        <option value="$PROJECT_DIR$/tuling-admin/src/main/java/com/tulingxueyuan/mall/modules/pms/model/PmsSkuStock.java" />
+        <option value="$PROJECT_DIR$/tuling-admin/src/main/java/com/tulingxueyuan/mall/modules/pms/model/dto/ProductSaveParamsDTO.java" />
+        <option value="$PROJECT_DIR$/tuling-common/src/main/java/com/tulingxueyuan/mall/common/exception/GlobalExceptionHandler.java" />
+        <option value="$PROJECT_DIR$/tuling-admin/src/main/java/com/tulingxueyuan/mall/modules/pms/model/PmsProduct.java" />
+        <option value="$PROJECT_DIR$/tuling-admin/src/main/java/com/tulingxueyuan/mall/config/SwaggerConfig.java" />
+        <option value="$PROJECT_DIR$/tuling-common/src/main/java/com/tulingxueyuan/mall/common/config/BaseSwaggerConfig.java" />
+        <option value="$PROJECT_DIR$/tuling-admin/src/main/java/com/tulingxueyuan/mall/modules/ums/controller/UmsAdminController.java" />
+        <option value="$PROJECT_DIR$/tuling-admin/src/main/java/com/tulingxueyuan/mall/config/GlobalWebAppConfigurer.java" />
+        <option value="$PROJECT_DIR$/tuling-portal/pom.xml" />
+        <option value="$PROJECT_DIR$/tuling-portal/src/main/resources/application.properties" />
+        <option value="$PROJECT_DIR$/tuling-portal/src/main/resources/application.yml" />
+        <option value="$PROJECT_DIR$/tuling-portal/src/main/resources/application-dev.yml" />
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/tuling-admin/pom.xml" />
+        <option value="$PROJECT_DIR$/tuling-common/pom.xml" />
+        <option value="$PROJECT_DIR$/tuling-mpbg/pom.xml" />
+        <option value="$PROJECT_DIR$/tuling-protal/pom.xml" />
+        <option value="$PROJECT_DIR$/tuling-protal/src/main/resources/application.yml" />
+        <option value="$PROJECT_DIR$/tuling-protal/src/main/resources/application-dev.yml" />
+        <option value="$PROJECT_DIR$/tuling-protal/src/main/java/com/tulingxueyuan/mall/config/SwaggerConfig.java" />
+        <option value="$PROJECT_DIR$/tuling-admin/src/main/resources/application-dev.yml" />
+        <option value="$PROJECT_DIR$/tuling-admin/src/main/java/com/tulingxueyuan/mall/config/MyBatisConfig.java" />
+        <option value="$PROJECT_DIR$/tuling-admin/src/main/java/com/tulingxueyuan/mall/StartApp.java" />
+        <option value="$PROJECT_DIR$/sql/mall_tiny.sql" />
+        <option value="$PROJECT_DIR$/tuling-admin/src/main/java/com/tulingxueyuan/mall/modules/ums/controller/UmsMemberLevelController.java" />
+        <option value="$PROJECT_DIR$/tuling-admin/src/main/java/com/tulingxueyuan/mall/interceptor/AuthInterceptor.java" />
+        <option value="$PROJECT_DIR$/tuling-admin/src/main/java/com/tulingxueyuan/mall/config/GlobalCorsConfig.java" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="D:\Maven\apache-maven-3.8.4-bin (1)\repository" />
+        <option name="mavenHome" value="$PROJECT_DIR$/../../Maven/apache-maven-3.8.4-bin (1)/apache-maven-3.8.4" />
+        <option name="userSettingsFile" value="D:\Maven\apache-maven-3.8.4-bin (1)\apache-maven-3.8.4\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="vmOptionsForImporter" value="-Xmx768m" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <expand>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="tuling-admin" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="tuling-admin" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="Dependencies" type="f4be9f2a:MavenProjectsStructure$DependenciesNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="tuling-admin" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="Dependencies" type="f4be9f2a:MavenProjectsStructure$DependenciesNode" />
+          <item name="org.springframework.boot:spring-boot-starter-validation:2.3.6.RELEASE" type="c0821a7e:MavenProjectsStructure$DependencyNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="tuling-mpbg" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="tuling-mpbg" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="Dependencies" type="f4be9f2a:MavenProjectsStructure$DependenciesNode" />
+        </path>
+      </expand>
+      <select />
+    </treeState>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-10" />
+    <option name="y" value="1" />
+    <option name="width" value="1935" />
+    <option name="height" value="1039" />
+  </component>
+  <component name="ProjectId" id="29Km3lrTpLaWc5YGmj1oB54TOTW" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="tuling-single-mall" type="b2602c69:ProjectViewProjectNode" />
+              <item name="tuling-single-mall" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="tuling-single-mall" type="b2602c69:ProjectViewProjectNode" />
+              <item name="tuling-single-mall" type="462c0819:PsiDirectoryNode" />
+              <item name="sql" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="tuling-single-mall" type="b2602c69:ProjectViewProjectNode" />
+              <item name="tuling-single-mall" type="462c0819:PsiDirectoryNode" />
+              <item name="tuling-admin" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="tuling-single-mall" type="b2602c69:ProjectViewProjectNode" />
+              <item name="tuling-single-mall" type="462c0819:PsiDirectoryNode" />
+              <item name="tuling-admin" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="tuling-single-mall" type="b2602c69:ProjectViewProjectNode" />
+              <item name="tuling-single-mall" type="462c0819:PsiDirectoryNode" />
+              <item name="tuling-admin" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="tuling-single-mall" type="b2602c69:ProjectViewProjectNode" />
+              <item name="tuling-single-mall" type="462c0819:PsiDirectoryNode" />
+              <item name="tuling-admin" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="tuling-single-mall" type="b2602c69:ProjectViewProjectNode" />
+              <item name="tuling-single-mall" type="462c0819:PsiDirectoryNode" />
+              <item name="tuling-admin" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="mall" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="tuling-single-mall" type="b2602c69:ProjectViewProjectNode" />
+              <item name="tuling-single-mall" type="462c0819:PsiDirectoryNode" />
+              <item name="tuling-admin" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="mall" type="462c0819:PsiDirectoryNode" />
+              <item name="config" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="tuling-single-mall" type="b2602c69:ProjectViewProjectNode" />
+              <item name="tuling-single-mall" type="462c0819:PsiDirectoryNode" />
+              <item name="tuling-admin" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="mall" type="462c0819:PsiDirectoryNode" />
+              <item name="interceptor" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="tuling-single-mall" type="b2602c69:ProjectViewProjectNode" />
+              <item name="tuling-single-mall" type="462c0819:PsiDirectoryNode" />
+              <item name="tuling-admin" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="tuling-single-mall" type="b2602c69:ProjectViewProjectNode" />
+              <item name="tuling-single-mall" type="462c0819:PsiDirectoryNode" />
+              <item name="tuling-admin" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="tuling-single-mall" type="b2602c69:ProjectViewProjectNode" />
+              <item name="tuling-single-mall" type="462c0819:PsiDirectoryNode" />
+              <item name="tuling-admin" type="462c0819:PsiDirectoryNode" />
+              <item name="target" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="ProjectViewState">
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="extract.method.default.visibility" value="private" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/tuling-admin/src/main/resources/mapper/ums" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.27921405" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="ReactorSettings">
+    <option name="notificationShown" value="true" />
+  </component>
+  <component name="RebelAgentSelection">
+    <selection>jr</selection>
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="com.tulingxueyuan.mall.Controller" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\project\tuling-single-mall\tuling-admin\src\main\resources\mapper\ums" />
+      <recent name="D:\project\tuling-single-mall\tuling-admin\src\main\java\com\tulingxueyuan\mall" />
+      <recent name="D:\project\tuling-single-mall\tuling-protal\src\main\java\com\tulingxueyuan\mall" />
+      <recent name="D:\project\tuling-single-mall\tuling-protal\src\main\resources" />
+      <recent name="D:\ideaworkspace\mine\tuling_mall_tiny\tuling-portal\src\main\resources" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\project\tuling-single-mall\tuling-admin\src\main\resources\mapper" />
+      <recent name="D:\ideaworkspace\mine\tuling_mall_tiny\tuling-admin\src\main\resources\mapper" />
+    </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="" />
+      <recent name="com.tulingxueyuan.mall" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.tulingxueyuan.mall.modules.ums.service.impl" />
+      <recent name="com.tulingxueyuan.mall.modules.ums.service" />
+      <recent name="com.tulingxueyuan.mall.modules.ums.model" />
+      <recent name="com.tulingxueyuan.mall.modules.ums.mapper" />
+      <recent name="com.tulingxueyuan.mall.modules.ums.controller" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="configurationTypes">
+      <set>
+        <option value="SpringBootApplicationConfigurationType" />
+      </set>
+    </option>
+  </component>
+  <component name="RunManager" selected="Spring Boot.StartApp">
+    <configuration name="MyBatisPlusGenerator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.tulingxueyuan.mall.generator.MyBatisPlusGenerator" />
+      <module name="tuling-mpbg" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.tulingxueyuan.mall.generator.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ProductTests.test01" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="tuling-admin" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="ProductTests" />
+      <option name="METHOD_NAME" value="test01" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="tulingOSStest.uploadOSS" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="tuling-test" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.tulingxueyuan.tulingtest.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.tulingxueyuan.tulingtest" />
+      <option name="MAIN_CLASS_NAME" value="com.tulingxueyuan.tulingtest.tulingOSStest" />
+      <option name="METHOD_NAME" value="uploadOSS" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="JetRunConfigurationType">
+      <module name="tuling-single-mall" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
+      <module name="tuling-single-mall" />
+      <option name="filePath" />
+      <option name="vmParameters" />
+      <option name="alternativeJrePath" />
+      <option name="programParameters" />
+      <option name="passParentEnvs" value="true" />
+      <option name="workingDirectory" />
+      <option name="isAlternativeJrePathEnabled" value="false" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="filePath" />
+      <option name="vmParameters" />
+      <option name="alternativeJrePath" />
+      <option name="programParameters" />
+      <option name="passParentEnvs" value="true" />
+      <option name="workingDirectory" />
+      <option name="isAlternativeJrePathEnabled" value="false" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="StartApp" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="tuling-admin" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value=".*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.tulingxueyuan.mall.StartApp" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TulingTestApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="tuling-test" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.tulingxueyuan.tulingtest.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.tulingxueyuan.tulingtest.TulingTestApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Spring Boot.StartApp" />
+        <item itemvalue="Application.MyBatisPlusGenerator" />
+        <item itemvalue="Spring Boot.TulingTestApplication" />
+        <item itemvalue="JUnit.tulingOSStest.uploadOSS" />
+        <item itemvalue="JUnit.ProductTests.test01" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="0855a341-0206-48ba-b1d0-dbea93b94cba" name="Default Changelist" comment="" />
+      <created>1611240138381</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1611240138381</updated>
+      <workItem from="1611240141008" duration="33497000" />
+      <workItem from="1611551766319" duration="5331000" />
+      <workItem from="1611562317085" duration="12445000" />
+      <workItem from="1611838050623" duration="45000" />
+      <workItem from="1611903969369" duration="661000" />
+      <workItem from="1613649088251" duration="1263000" />
+      <workItem from="1613739835542" duration="3514000" />
+      <workItem from="1613897601167" duration="5708000" />
+      <workItem from="1613910528535" duration="3429000" />
+      <workItem from="1613915958846" duration="63000" />
+      <workItem from="1613917060528" duration="2839000" />
+      <workItem from="1613975169348" duration="2832000" />
+      <workItem from="1614081996328" duration="64959000" />
+      <workItem from="1614753202620" duration="74830000" />
+      <workItem from="1615359371707" duration="20185000" />
+      <workItem from="1615439277073" duration="5611000" />
+      <workItem from="1615467362848" duration="3383000" />
+      <workItem from="1615470965793" duration="1143000" />
+      <workItem from="1615472138949" duration="7708000" />
+      <workItem from="1615709964676" duration="1210000" />
+      <workItem from="1615711232736" duration="4000" />
+      <workItem from="1615711385430" duration="71000" />
+      <workItem from="1615711617145" duration="1015000" />
+      <workItem from="1615712659903" duration="2561000" />
+      <workItem from="1620125961113" duration="2016000" />
+      <workItem from="1620806071293" duration="4357000" />
+      <workItem from="1621434372598" duration="2295000" />
+      <workItem from="1652869959195" duration="1763000" />
+      <workItem from="1652925980073" duration="735000" />
+      <workItem from="1652927408579" duration="400000" />
+      <workItem from="1652941572256" duration="3910000" />
+      <workItem from="1653012677513" duration="4755000" />
+      <workItem from="1653097027026" duration="1777000" />
+      <workItem from="1653207565720" duration="981000" />
+      <workItem from="1653304526198" duration="404000" />
+      <workItem from="1653304976436" duration="180000" />
+      <workItem from="1653305175752" duration="1227000" />
+      <workItem from="1653386359254" duration="2165000" />
+      <workItem from="1653389343318" duration="692000" />
+      <workItem from="1653390075023" duration="884000" />
+      <workItem from="1653530019196" duration="2233000" />
+      <workItem from="1653562926587" duration="513000" />
+      <workItem from="1653616066889" duration="1392000" />
+      <workItem from="1653620504627" duration="1743000" />
+      <workItem from="1653704076552" duration="2172000" />
+      <workItem from="1653792339752" duration="6659000" />
+      <workItem from="1653870178879" duration="860000" />
+      <workItem from="1654420338712" duration="2161000" />
+      <workItem from="1654478911557" duration="14036000" />
+      <workItem from="1654571944335" duration="273000" />
+      <workItem from="1654572707184" duration="12957000" />
+      <workItem from="1654599181378" duration="120000" />
+      <workItem from="1654907540925" duration="2909000" />
+      <workItem from="1654997112301" duration="19077000" />
+      <workItem from="1655079000466" duration="10355000" />
+      <workItem from="1655168836954" duration="16693000" />
+      <workItem from="1655256026503" duration="16584000" />
+      <workItem from="1655340714820" duration="15203000" />
+      <workItem from="1655431862678" duration="5192000" />
+      <workItem from="1655464662155" duration="95000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="TestProduct_test01 - 2021.03.04 at 20h 25m 51s.xml">
+      <configuration name="TestProduct.test01" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="TestProduct_test01 - 2021.03.04 at 20h 28m 04s.xml">
+      <configuration name="TestProduct.test01" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="TestProduct_test01 - 2021.03.04 at 20h 29m 07s.xml">
+      <configuration name="TestProduct.test01" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="TestProduct_test01 - 2021.03.04 at 20h 30m 17s.xml">
+      <configuration name="TestProduct.test01" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="TestProduct_test01 - 2021.03.04 at 20h 30m 46s.xml">
+      <configuration name="TestProduct.test01" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="TestProduct_test01 - 2021.03.04 at 20h 33m 13s.xml">
+      <configuration name="TestProduct.test01" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="TestProduct_test01 - 2021.03.04 at 20h 33m 33s.xml">
+      <configuration name="TestProduct.test01" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="ProductTests_test01 - 2021.03.04 at 21h 38m 59s.xml">
+      <configuration name="ProductTests.test01" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="ProductTests_test01 - 2021.03.04 at 21h 41m 05s.xml">
+      <configuration name="ProductTests.test01" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="ProductTests_test01 - 2021.03.04 at 21h 43m 00s.xml">
+      <configuration name="ProductTests.test01" configurationId="JUnit" />
+    </history-entry>
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="262975000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49882352" visible="true" weight="0.31903484" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Designer" order="2" />
+      <window_info id="JRebel" order="3" sideWeight="0.5011765" side_tool="true" weight="0.25" />
+      <window_info id="Image Layers" order="4" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="UI Designer" order="6" />
+      <window_info id="Favorites" order="7" side_tool="true" />
+      <window_info id="Web" order="8" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.52613944" weight="0.44334278" />
+      <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.49932975" weight="0.29320112" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Spring" order="7" />
+      <window_info anchor="bottom" id="Terminal" order="8" weight="0.04249292" />
+      <window_info anchor="bottom" id="Docker" order="9" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Sequence" order="10" />
+      <window_info anchor="bottom" id="Event Log" order="11" sideWeight="0.50067025" side_tool="true" weight="0.35410765" />
+      <window_info anchor="bottom" id="Statistic" order="12" />
+      <window_info anchor="bottom" id="Problems" order="13" />
+      <window_info anchor="bottom" id="Database Changes" order="14" />
+      <window_info anchor="bottom" id="Version Control" order="15" />
+      <window_info anchor="bottom" id="JRebel Executor" order="16" />
+      <window_info anchor="bottom" id="JRebel Console" order="17" side_tool="true" />
+      <window_info anchor="bottom" id="Java Enterprise" order="18" weight="0.3286119" />
+      <window_info anchor="bottom" id="Messages" order="19" sideWeight="0.49932975" weight="0.15722379" />
+      <window_info anchor="bottom" id="MyBatis Log" order="20" sideWeight="0.4738606" side_tool="true" weight="0.22379604" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Maven" order="3" weight="0.39678285" />
+      <window_info anchor="right" id="Palette" order="4" />
+      <window_info anchor="right" id="Capture Analysis" order="5" />
+      <window_info anchor="right" id="Word Book" order="6" side_tool="true" />
+      <window_info anchor="right" id="Database" order="7" />
+      <window_info anchor="right" id="Palette&#9;" order="8" />
+      <window_info anchor="right" id="Theme Preview" order="9" />
+      <window_info anchor="right" id="Bean Validation" order="10" weight="0.3297587" />
+    </layout>
+    <layout-to-restore>
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49882352" visible="true" weight="0.27680966" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Designer" order="2" />
+      <window_info id="JRebel" order="3" sideWeight="0.5011765" side_tool="true" weight="0.25" />
+      <window_info id="Image Layers" order="4" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="UI Designer" order="6" />
+      <window_info id="Favorites" order="7" side_tool="true" />
+      <window_info id="Web" order="8" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49932975" weight="0.26628897" />
+      <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.49932975" weight="0.29320112" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Spring" order="7" />
+      <window_info anchor="bottom" id="Terminal" order="8" />
+      <window_info anchor="bottom" id="Docker" order="9" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Sequence" order="10" />
+      <window_info anchor="bottom" id="Event Log" order="11" sideWeight="0.50067025" side_tool="true" weight="0.35410765" />
+      <window_info anchor="bottom" id="Statistic" order="12" />
+      <window_info anchor="bottom" id="Problems" order="13" />
+      <window_info anchor="bottom" id="Java Enterprise" order="14" />
+      <window_info anchor="bottom" id="Database Changes" order="15" />
+      <window_info anchor="bottom" id="Version Control" order="16" />
+      <window_info anchor="bottom" id="JRebel Executor" order="17" />
+      <window_info anchor="bottom" id="JRebel Console" order="18" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" order="19" sideWeight="0.49932975" weight="0.28186968" />
+      <window_info anchor="bottom" id="MyBatis Log" order="20" side_tool="true" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Maven" order="3" weight="0.39678285" />
+      <window_info anchor="right" id="Palette" order="4" />
+      <window_info anchor="right" id="Capture Analysis" order="5" />
+      <window_info anchor="right" id="Word Book" order="6" side_tool="true" />
+      <window_info anchor="right" id="Database" order="7" />
+      <window_info anchor="right" id="Palette&#9;" order="8" />
+      <window_info anchor="right" id="Theme Preview" order="9" />
+      <window_info anchor="right" id="Bean Validation" order="10" weight="0.3297587" />
+    </layout-to-restore>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/tuling-mpbg/src/main/java/com/tulingxueyuan/mall/generator/MyBatisPlusGenerator.java</url>
+          <line>138</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <breakpoint enabled="true" type="java-exception">
+          <properties class="org.springframework.data.redis.RedisConnectionFailureException" package="org.springframework.data.redis" />
+          <option name="timeStamp" value="3" />
+        </breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="jar://$MAVEN_REPOSITORY$/com/baomidou/mybatis-plus-extension/3.3.2/mybatis-plus-extension-3.3.2.jar!/com/baomidou/mybatisplus/extension/service/impl/ServiceImpl.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-810">
+          <caret line="43" column="24" selection-start-line="43" selection-start-column="13" selection-end-line="43" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tuling-common/src/main/java/com/tulingxueyuan/mall/common/api/CommonResult.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tuling-admin/src/main/java/com/tulingxueyuan/mall/modules/ums/controller/UmsMenuController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-272">
+          <caret line="44" column="23" selection-start-line="44" selection-start-column="11" selection-end-line="44" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tuling-common/src/main/java/com/tulingxueyuan/mall/common/api/CommonPage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="208">
+          <caret line="11" column="23" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tuling-common/src/main/java/com/tulingxueyuan/mall/common/api/ResultCode.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="7" column="15" selection-start-line="7" selection-start-column="12" selection-end-line="7" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tuling-common/src/main/java/com/tulingxueyuan/mall/common/config/BaseRedisConfig.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="530">
+          <caret line="36" column="21" selection-start-line="36" selection-start-column="8" selection-end-line="36" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tuling-common/src/main/java/com/tulingxueyuan/mall/common/config/BaseSwaggerConfig.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="298">
+          <caret line="26" column="36" selection-start-line="26" selection-start-column="36" selection-end-line="26" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tuling-common/src/main/java/com/tulingxueyuan/mall/common/service/impl/RedisServiceImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-122">
+          <caret line="19" column="13" selection-start-line="19" selection-start-column="13" selection-end-line="19" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tuling-portal/pom.xml" />
+    <entry file="file://$PROJECT_DIR$/tuling-portal/src/main/java/com/tulingxueyuan/mall/config/RedisConfig.java" />
+    <entry file="file://$PROJECT_DIR$/tuling-portal/src/main/java/com/tulingxueyuan/mall/config/MyBatisConfig.java" />
+    <entry file="file://$PROJECT_DIR$/tuling-portal/src/main/java/com/tulingxueyuan/mall/config/GlobalWebAppConfigurer.java" />
+    <entry file="file://$PROJECT_DIR$/tuling-portal/src/main/java/com/tulingxueyuan/mall/config/GlobalCorsConfig.java" />
+    <entry file="file://$PROJECT_DIR$/tuling-portal/src/main/java/com/tulingxueyuan/mall/config/SwaggerConfig.java" />
+    <entry file="file://$PROJECT_DIR$/tuling-portal/src/main/resources/application.properties" />
+    <entry file="file://$PROJECT_DIR$/tuling-portal/src/main/resources/application-dev.yml" />
+    <entry file="file://$PROJECT_DIR$/tuling-portal/src/main/resources/application.yml" />
+    <entry file="file://$PROJECT_DIR$/tuling-portal/src/main/java/com/tulingxueyuan/mall/TulingPortalApplication.java" />
+    <entry file="file://$PROJECT_DIR$/tuling_mall_tiny.iml" />
+    <entry file="file://$PROJECT_DIR$/tuling-single-mall.iml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="4" column="47" selection-start-line="4" selection-start-column="47" selection-end-line="4" selection-end-column="47" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="19" column="28" selection-start-line="19" selection-start-column="28" selection-end-line="19" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tuling-common/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="5" column="38" selection-start-line="5" selection-start-column="38" selection-end-line="5" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tuling-mpbg/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="5" column="38" selection-start-line="5" selection-start-column="38" selection-end-line="5" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tuling-test/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="2" column="18" selection-start-line="2" selection-start-column="18" selection-end-line="2" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tuling-protal/src/main/resources/application.yml" />
+    <entry file="file://$PROJECT_DIR$/tuling-protal/src/main/resources/application-dev.yml" />
+    <entry file="file://$PROJECT_DIR$/tuling-protal/pom.xml" />
+    <entry file="file://$PROJECT_DIR$/tuling-protal/src/main/java/com/tulingxueyuan/mall/config/GlobalWebAppConfigurer.java" />
+    <entry file="file://$PROJECT_DIR$/tuling-protal/src/main/java/com/tulingxueyuan/mall/config/GlobalCorsConfig.java" />
+    <entry file="file://$PROJECT_DIR$/tuling-protal/src/main/java/com/tulingxueyuan/mall/config/MyBatisConfig.java" />
+    <entry file="file://$PROJECT_DIR$/tuling-protal/src/main/java/com/tulingxueyuan/mall/config/RedisConfig.java" />
+    <entry file="file://$PROJECT_DIR$/tuling-protal/src/main/java/com/tulingxueyuan/mall/config/SwaggerConfig.java" />
+    <entry file="file://$PROJECT_DIR$/tuling-admin/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="960">
+          <caret line="32" column="19" selection-start-line="13" selection-start-column="4" selection-end-line="32" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tuling-admin/src/main/java/com/tulingxueyuan/mall/config/OssConfig.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-168" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tuling-admin/src/main/resources/application-dev.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="52">
+          <caret line="2" column="47" selection-start-line="2" selection-start-column="47" selection-end-line="2" selection-end-column="47" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/io/swagger/swagger-annotations/1.6.0/swagger-annotations-1.6.0.jar!/io/swagger/annotations/ApiImplicitParam.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="295">
+          <caret line="20" lean-forward="true" selection-start-line="20" selection-end-line="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/io/swagger/swagger-annotations/1.6.0/swagger-annotations-1.6.0.jar!/io/swagger/annotations/ApiOperation.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-588">
+          <caret line="23" column="19" selection-start-line="23" selection-start-column="19" selection-end-line="23" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sql/mall_tiny.sql">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="884">
+          <caret line="34" selection-start-line="34" selection-end-line="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tuling-admin/src/main/java/com/tulingxueyuan/mall/config/RedisConfig.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="260">
+          <caret line="12" column="40" selection-start-line="12" selection-start-column="40" selection-end-line="12" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tuling-admin/src/main/java/com/tulingxueyuan/mall/config/SwaggerConfig.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="260">
+          <caret line="13" column="40" selection-start-line="13" selection-start-column="40" selection-end-line="13" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tuling-common/src/main/java/com/tulingxueyuan/mall/common/util/ComConstants.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="104">
+          <caret line="4" column="65" selection-start-line="4" selection-start-column="65" selection-end-line="4" selection-end-column="65" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tuling-admin/src/main/java/com/tulingxueyuan/mall/config/MyBatisConfig.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="494">
+          <caret line="24" selection-start-line="24" selection-end-line="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tuling-admin/src/main/java/com/tulingxueyuan/mall/modules/ums/controller/UmsAdminController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="884">
+          <caret line="58" column="40" selection-start-line="58" selection-start-column="40" selection-end-line="58" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tuling-admin/src/main/java/com/tulingxueyuan/mall/modules/ums/controller/UmsMemberLevelController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="416">
+          <caret line="26" selection-start-line="26" selection-end-line="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tuling-admin/src/main/java/com/tulingxueyuan/mall/modules/ums/service/impl/UmsAdminServiceImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1690">
+          <caret line="98" column="22" selection-start-line="98" selection-start-column="16" selection-end-line="98" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tuling-admin/src/main/java/com/tulingxueyuan/mall/StartApp.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="260">
+          <caret line="12" selection-start-line="12" selection-end-line="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tuling-admin/src/main/resources/application.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="416">
+          <caret line="16" column="21" lean-forward="true" selection-start-line="16" selection-start-column="21" selection-end-line="16" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tuling-admin/src/main/java/com/tulingxueyuan/mall/interceptor/AuthInterceptor.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="41" column="53" lean-forward="true" selection-start-line="41" selection-start-column="53" selection-end-line="41" selection-end-column="53" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sql/all.sql">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="2003" column="55" lean-forward="true" selection-start-line="2003" selection-start-column="55" selection-end-line="2003" selection-end-column="55" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tuling-admin/src/main/java/com/tulingxueyuan/mall/config/GlobalWebAppConfigurer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="315">
+          <caret line="23" lean-forward="true" selection-start-line="23" selection-end-line="23" />
+          <folding>
+            <element signature="e#873#874#0" expanded="true" />
+            <element signature="e#917#918#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tuling-admin/src/main/java/com/tulingxueyuan/mall/config/GlobalCorsConfig.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="431">
+          <caret line="36" column="1" selection-start-line="36" selection-start-column="1" selection-end-line="36" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.27921405" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>Spring</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.27921405" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.27921405" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.27921405" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>tuling-admin</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.27921405" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.1948956" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>Maven: ch.qos.logback:logback-classic:1.2.3</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.27921405" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>

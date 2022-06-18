@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE mapper PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN" "http://mybatis.org/dtd/mybatis-3-mapper.dtd">
+<mapper namespace="com.tulingxueyuan.mall.modules.pms.mapper.PmsProductMapper">
+
+    <!-- 通用查询映射结果 -->
+    <resultMap id="BaseResultMap" type="com.tulingxueyuan.mall.modules.pms.model.PmsProduct">
+        <id column="id" property="id" />
+        <result column="brand_id" property="brandId" />
+        <result column="product_category_id" property="productCategoryId" />
+        <result column="feight_template_id" property="feightTemplateId" />
+        <result column="product_attribute_category_id" property="productAttributeCategoryId" />
+        <result column="name" property="name" />
+        <result column="pic" property="pic" />
+        <result column="product_sn" property="productSn" />
+        <result column="delete_status" property="deleteStatus" />
+        <result column="publish_status" property="publishStatus" />
+        <result column="new_status" property="newStatus" />
+        <result column="recommand_status" property="recommandStatus" />
+        <result column="verify_status" property="verifyStatus" />
+        <result column="sort" property="sort" />
+        <result column="sale" property="sale" />
+        <result column="price" property="price" />
+        <result column="promotion_price" property="promotionPrice" />
+        <result column="gift_growth" property="giftGrowth" />
+        <result column="gift_point" property="giftPoint" />
+        <result column="use_point_limit" property="usePointLimit" />
+        <result column="sub_title" property="subTitle" />
+        <result column="description" property="description" />
+        <result column="original_price" property="originalPrice" />
+        <result column="stock" property="stock" />
+        <result column="low_stock" property="lowStock" />
+        <result column="unit" property="unit" />
+        <result column="weight" property="weight" />
+        <result column="preview_status" property="previewStatus" />
+        <result column="service_ids" property="serviceIds" />
+        <result column="keywords" property="keywords" />
+        <result column="note" property="note" />
+        <result column="album_pics" property="albumPics" />
+        <result column="detail_title" property="detailTitle" />
+        <result column="detail_desc" property="detailDesc" />
+        <result column="detail_html" property="detailHtml" />
+        <result column="detail_mobile_html" property="detailMobileHtml" />
+        <result column="promotion_start_time" property="promotionStartTime" />
+        <result column="promotion_end_time" property="promotionEndTime" />
+        <result column="promotion_per_limit" property="promotionPerLimit" />
+        <result column="promotion_type" property="promotionType" />
+        <result column="brand_name" property="brandName" />
+        <result column="product_category_name" property="productCategoryName" />
+    </resultMap>
+    <resultMap id="Infolist" type="com.tulingxueyuan.mall.modules.pms.model.dto.ProductSaveInfoDTO" extends="BaseResultMap">
+        <result column="cateParentId" property="cateParentId"/>
+        <collection property="memberPriceList" columnPrefix="member_" resultMap="com.tulingxueyuan.mall.modules.pms.mapper.PmsMemberPriceMapper.BaseResultMap"/>
+        <collection property="productAttributeValueList" columnPrefix="value_" resultMap="com.tulingxueyuan.mall.modules.pms.mapper.PmsProductAttributeValueMapper.BaseResultMap"/>
+        <collection property="productFullReductionList" columnPrefix="full_" resultMap="com.tulingxueyuan.mall.modules.pms.mapper.PmsProductFullReductionMapper.BaseResultMap"/>
+        <collection property="productLadderList" columnPrefix="ladder_" resultMap="com.tulingxueyuan.mall.modules.pms.mapper.PmsProductLadderMapper.BaseResultMap"/>
+        <collection property="skuStockList" columnPrefix="sku_" resultMap="com.tulingxueyuan.mall.modules.pms.mapper.PmsSkuStockMapper.BaseResultMap"/>
+    </resultMap>
+    <select id="Infolist" resultType="com.tulingxueyuan.mall.modules.pms.model.dto.ProductSaveInfoDTO"
+            resultMap="Infolist">
+
+        SELECT
+            pms_sku_stock.id AS sku_id,
+            pms_sku_stock.product_id AS sku_product_id,
+            pms_sku_stock.sku_code AS sku_sku_code,
+            pms_sku_stock.price AS sku_price,
+            pms_sku_stock.stock AS sku_stock,
+            pms_sku_stock.low_stock AS sku_low_stock,
+            pms_sku_stock.sp1 AS sku_sp1,
+            pms_sku_stock.sp2 AS sku_sp2,
+            pms_sku_stock.sp3 AS sku_sp3,
+            pms_sku_stock.pic AS sku_pic,
+            pms_sku_stock.sale AS sku_sale,
+            pms_sku_stock.promotion_price AS sku_promotion_price,
+            pms_sku_stock.lock_stock AS sku_lock_stock,
+            pms_product.*,
+            pms_product_ladder.id AS ladder_id,
+            pms_product_ladder.product_id AS ladder_product_id,
+            pms_product_ladder.count AS ladder_count,
+            pms_product_ladder.discount AS ladder_discount,
+            pms_product_ladder.price AS ladder_price,
+            pms_product_full_reduction.id AS full_id,
+            pms_product_full_reduction.product_id AS full_product_id,
+            pms_product_full_reduction.full_price AS full_full_price,
+            pms_product_attribute_value.id AS value_id,
+            pms_product_attribute_value.product_id AS value_product_id,
+            pms_product_attribute_value.product_attribute_id AS value_product_attribute_id,
+            pms_product_attribute_value.`value` value_value,
+            pms_member_price.id member_id,
+            pms_member_price.product_id member_product_attribute_id,
+            pms_member_price.member_level_id member_member_level_id,
+            pms_member_price.member_price member_member_price,
+            pms_member_price.member_level_name member_member_level_name,
+            pms_product_attribute.product_attribute_category_id cateParentId
+        FROM
+            pms_product
+                LEFT JOIN
+            pms_product_attribute_value
+            ON
+                pms_product.id = pms_product_attribute_value.product_id
+                LEFT JOIN
+            pms_product_full_reduction
+            ON
+                pms_product.id = pms_product_full_reduction.product_id
+                LEFT JOIN
+            pms_product_ladder
+            ON
+                pms_product.id = pms_product_ladder.product_id
+                LEFT JOIN
+            pms_sku_stock
+            ON
+                pms_product.id = pms_sku_stock.product_id
+                LEFT JOIN
+            pms_member_price
+            ON
+                pms_member_price.product_id = pms_product.id
+                LEFT JOIN
+            pms_product_attribute
+            ON
+                pms_product.product_attribute_category_id=pms_product_attribute.id
+        WHERE
+            pms_product.id = #{id}
+
+    </select>
+
+</mapper>
